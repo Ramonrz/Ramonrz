@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Backend-Java-informational?style=flat&logo=java&logoColor=red&color=05122A" />
   <img src="https://img.shields.io/badge/Cloud&nbsp;Private-Kubernetes-informational?style=flat&logo=kubernetes&color=05122A" />
   <img src="https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=05122A" />
+  <img src="https://img.shields.io/badge/Front%20End-Angular%202%2B-red" />
 </p>
 
 - 👋 Hi everyone, I’m @Ramonrz, I have worked with software development over five years. I’m tech lover and I really like to do the best.
