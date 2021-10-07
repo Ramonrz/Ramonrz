@@ -12,24 +12,24 @@
 
 ## Hey, look at this! 👋
 
-Experience Java 8, 11
-Experience with Microservices Architecture, Cloud Architecture and Container Architecture
-Experience with Docker, Kubernetes, Continuous Integration and Continuous Delivery
-Back-End and Front-End Development Experience
-Strong knowledge Java EE, Spring Boot and Angular 2+
+- [x] Experience Java 8, 11
+- [x] Experience with Microservices Architecture, Cloud Architecture and Container Architecture
+- [x] Experience with Docker, Kubernetes, Continuous Integration and Continuous Delivery
+- [x] Back-End and Front-End Development Experience
+- [x] Strong knowledge Java EE, Spring Boot and Angular 2+
 
 ## Skills
 
-✔️ Spring Boot | Spring Batch | Quarkus | Java EE
-✔️ Junit | Mockito | PowerMock | RestAssured | DBunit
-✔️ Tomcat | Jboss EAP | Jboss AS
-✔️ Swagger | OpenApi
-✔️ Restful | SOAP
-✔️ Angular2+ | TypeScript | Angular JS | Javascript | Jasmine | Karma | Cypress | Protractor
-✔️ Kafka | ActiveMQ | IBM MQ
-✔️ Postgres | Oracle | SQL Server | MySQL
-✔️ Docker | Kubernetes | Rancher | Nexus | JFrog | ArgoCD | Jenkins | Sonar | Git | SVN
-✔️ Eclipse | IntelliJ IDEA | VSCode | Postman | SoapUI | JMeter
-✔️ Jira | Redmine
-✔️ Agile | Scrum
-✔️ Linux | Windows | Mac OS
+- [x] Spring Boot | Spring Batch | Quarkus | Java EE
+- [x] Junit | Mockito | PowerMock | RestAssured | DBunit
+- [x] Tomcat | Jboss EAP | Jboss AS
+- [x] Swagger | OpenApi
+- [x] Restful | SOAP
+- [x] Angular2+ | TypeScript | Angular JS | Javascript | Jasmine | Karma | Cypress | Protractor
+- [x] Kafka | ActiveMQ | IBM MQ
+- [x] Postgres | Oracle | SQL Server | MySQL
+- [x] Docker | Kubernetes | Rancher | Nexus | JFrog | ArgoCD | Jenkins | Sonar | Git | SVN
+- [x] Eclipse | IntelliJ IDEA | VSCode | Postman | SoapUI | JMeter
+- [x] Jira | Redmine
+- [x] Agile | Scrum
+- [x] Linux | Windows | Mac OS
