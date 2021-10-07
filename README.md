@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Front%20End-Angular%202%2B-black" />
 </p>
 
-- 👋 Hi everyone, I’m @Ramonrz, I have worked with software development over five years. I’m tech lover and I really like to do the best.
+- 👋 Hi everyone, I’m @Ramonrz, I have been working with software development for over five years. I’m tech lover and I really like to do the best.
 
 ## Hey, look at this! 👋
 
