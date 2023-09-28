@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Front%20End-Angular%202%2B-black" />
 </p>
 
-- 👋 Hi everyone, I’m @Ramonrz, I have been working with software development for over five years. I’m tech lover and I really like to do the best.
+- 👋 Hi everyone, I’m @Ramonrz, I have been working with software development for over 8 years. I’m a tech lover and I really like to do my best.
 
 ## Hey, look at this! 👋
 
@@ -18,6 +18,7 @@
 - [x] Experience with Docker, Kubernetes, Continuous Integration and Continuous Delivery
 - [x] Back-End and Front-End Development Experience
 - [x] Strong knowledge Java EE, Spring Boot and Angular 2+
+- [x] Always worried about clean code, reusable, and reliable Java code
 
 ## Skills
 
